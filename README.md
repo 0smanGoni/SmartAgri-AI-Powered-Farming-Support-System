@@ -58,7 +58,7 @@ Installation
 - Clone the Repository
 ```console
 
-git clone https://github.com/yourusername/ai-farming-support.git
+git clone https://github.com/0smanGoni/SmartAgri-AI-Powered-Farming-Support-System.git
 cd ai-farming-support
 ```
 
